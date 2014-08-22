@@ -1,0 +1,25 @@
+#orange-tree-template { display: block; }
+.tree-container{
+postition: relative;
+}
+
+.tree-image{
+display: none;
+margin-left: 200px;
+position: absolute;
+}
+
+.orange-container {
+  width: 600px;
+  postiion: absolute;
+  /*display: inline-block;*/
+}
+.orange-image {
+  display: inline-block;
+  position: relative;
+  display: none;
+  background: url("../images/tree.png");
+  left: 230px;
+  /*bottom: 650px;*/
+
+}
